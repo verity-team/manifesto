@@ -1,0 +1,2 @@
+# manifesto
+Verity team manifesto
